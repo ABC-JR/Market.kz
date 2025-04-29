@@ -1,42 +1,42 @@
 # 🛒 Market.kz
 
-Market.kz — это Android-приложение для онлайн-шопинга, разработанное с использованием **Kotlin**, **Retrofit**, **MVVM** и **Jetpack Compose**. Приложение позволяет пользователям просматривать товары, добавлять их в корзину и управлять своим профилем.
+**Market.kz** is an Android shopping app built using **Kotlin**, **Retrofit**, **MVVM**, and **Jetpack Compose**. It allows users to browse shops, view products, add items to the cart, and manage their profile—all in a modern, clean UI.
 
-## 🚀 Возможности
+## 🚀 Features
 
-- Просмотр списка магазинов
-- Просмотр товаров в магазине
-- Добавление товаров в корзину
-- Просмотр и редактирование профиля пользователя
-- Удобный и современный UI с использованием Jetpack Compose
+- View list of shops
+- Browse products in selected shop
+- Add products to cart
+- View and edit user profile
+- Clean and responsive UI using Jetpack Compose
 
-## 🖼️ Скриншоты
+## 🖼️ Screenshots
 
-### 🏠 Главная страница
+### 🏠 Main Page
 ![Main Page](https://github.com/ABC-JR/Market.kz/blob/main/app/src/main/java/com/abc/retrofitfullcourse/screenshorts/mainpage.png)
 
-### 🛍️ Список магазинов
+### 🛍️ Shop List
 ![Shop List](https://github.com/ABC-JR/Market.kz/blob/main/app/src/main/java/com/abc/retrofitfullcourse/screenshorts/shoplist.png)
 
-### 🛒 Список товаров
+### 🛒 Product List
 ![Shop List 2](https://github.com/ABC-JR/Market.kz/blob/main/app/src/main/java/com/abc/retrofitfullcourse/screenshorts/shoplist2.png)
 
-### 📇 Карточка товара
+### 📇 Product Card
 ![Card](https://github.com/ABC-JR/Market.kz/blob/main/app/src/main/java/com/abc/retrofitfullcourse/screenshorts/card.png)
 
-### 👤 Профиль
+### 👤 Profile Page
 ![Profile](https://github.com/ABC-JR/Market.kz/blob/main/app/src/main/java/com/abc/retrofitfullcourse/screenshorts/profile.png)
 
-## 🧩 Технологии
+## 🧩 Tech Stack
 
 - **Kotlin**
-- **Retrofit** — сетевые запросы
-- **Jetpack Compose** — UI
-- **MVVM** — архитектура
-- **Navigation Compose** — навигация между экранами
+- **Retrofit** – for networking
+- **Jetpack Compose** – for UI
+- **MVVM** – architecture pattern
+- **Navigation Compose** – for screen transitions
 
-## ⚙️ Установка и запуск
+## ⚙️ Getting Started
 
-1. Клонируйте репозиторий:
+1. Clone the repository:
    ```bash
    git clone https://github.com/ABC-JR/Market.kz.git
